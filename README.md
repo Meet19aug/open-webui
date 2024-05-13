@@ -242,3 +242,7 @@ If you have any questions, suggestions, or need assistance, please open an issue
 ---
 
 Created by [Timothy J. Baek](https://github.com/tjbck) - Let's make Open WebUI even more amazing together! 💪
+
+
+Run on: 
+localhost:3000
